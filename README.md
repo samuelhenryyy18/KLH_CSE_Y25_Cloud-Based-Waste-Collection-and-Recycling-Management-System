@@ -10,10 +10,13 @@
 Professor, Department of CSE
 KLH University, Bowrampet.
 
-- Team Members
- Vennela Eadala- 2520030288
-  K. Sharanya -  2520030277 
- Jasmitha - 2520030557 
+# Team Members
+
+| S. No. | Team Member Name | Roll Number |
+| ------ | ---------------- | ----------- |
+| 1      | Vennela Eadala   | 2520030288  |
+| 2      | K. Sharanya      | 2520030277  |
+| 3      | Jasmitha         | 2520030557  | 
 
 # PROJECT DESCRIPTION
 The Cloud-Based Waste Collection and Recycling Management System is an AWS-based application designed to improve and simplify municipal waste management operations. It provides a centralized platform for administrators to register waste collection points, schedule pickups, assign vehicles and drivers, track collection status, and monitor recycling statistics.
